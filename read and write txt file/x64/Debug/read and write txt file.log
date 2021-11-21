@@ -1,0 +1,3 @@
+﻿  read and write txt file.cpp
+D:\file c++\read and write txt file\read and write txt file\read and write txt file.cpp(115,9): warning C4101: 'b': unreferenced local variable
+  read and write txt file.vcxproj -> D:\file c++\read and write txt file\x64\Debug\read and write txt file.exe
